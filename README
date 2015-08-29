@@ -1,9 +1,1 @@
-##title
-```
-int main(){
-	int a, b;
-	while(cin >> a >> b){
-		cout << a + b <<endl;
-	}
-	return 0;
-}
+This is a file created by zhangxinmiao.
